@@ -3,7 +3,7 @@ from kafka import SimpleClient, SimpleProducer
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
-import json
+
 
 #Authentication
 consumer_key = config_twitter.consumer_key
