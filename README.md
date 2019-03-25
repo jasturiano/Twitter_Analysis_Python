@@ -4,3 +4,5 @@ This project is a demo to analyze data using tweets as Data Source and Python to
 
 The goal is create a Kafka producer to get all the data and then processing it with 2 approaches: KSQL and Spark Streaming.
 
+In Progress...
+
